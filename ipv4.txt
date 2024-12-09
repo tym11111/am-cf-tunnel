@@ -7,6 +7,7 @@ cfnatn.bh1nlt1.us.kg#我加速的域名
 104.17.128.1:2096#US
 ashton.ns.cloudflare.com
 abdullah.ns.cloudflare.com
+cfnatn.bh1nlt1.us.kg
 bowen.ns.cloudflare.com
 benedict.ns.cloudflare.com
 braden.ns.cloudflare.com
